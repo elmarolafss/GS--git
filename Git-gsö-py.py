@@ -1,3 +1,4 @@
+#Elmar Ólafsson
 w = open("Textaskra.txt", "w")
 w.write("Lorem Ipsum is simply dummy text of the printing and typesetting industry." + "\n")
 w.close()
